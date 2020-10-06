@@ -1,0 +1,7 @@
+# Visual Studio cache/options directory
+.vs/
+.vscode/
+
+# Python Tools
+__pycache__/
+*.pyc
